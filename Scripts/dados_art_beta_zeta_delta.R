@@ -1,4 +1,7 @@
-# SCRIPT GERAÇÃO DE DADOS ARTIFICIAIS - BETA ZETA (COM EFEITO NO ZETA)
+########################################################=
+#### GERAÇÃO DE DADOS ARTIFICIAIS - BETA ZETA DELTA ####
+####             (COM EFEITO NO ZETA)               ####
+########################################################=
 
 rm(list = ls(all = TRUE))
 library("mvtnorm")

@@ -1,4 +1,6 @@
-# ESTIMATIVAS DOS EFEITOS ESPACIAIS
+########################################################=
+####   ESTIMATIVAS DOS EFEITOS ESPACIAIS (DELTAS)   ####
+########################################################=
 
 library(tidyverse)
 library(rstan)

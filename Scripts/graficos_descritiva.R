@@ -1,4 +1,6 @@
-# GRÁFICOS PARA ANÁLISE DESCRITIVA
+########################################################=
+####   GRÁFICOS E TABELAS PARA ANÁLISE DESCRITIVA   ####
+########################################################=
 
 # Pacotes
 library(tidyverse)

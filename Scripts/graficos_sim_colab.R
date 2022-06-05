@@ -1,8 +1,12 @@
-# PREPARAÇÃO RESULTADOS SIMULAÇÕES COLAB
+########################################################=
+####     PREPARAÇÃO RESULTADOS SIMULAÇÕES COLAB     ####
+########################################################=
 
+# Pacotes
 library(tidyverse)
 library(patchwork)
 library(gridExtra)
+
 
 # Unindo bases beta_zeta_delta
 

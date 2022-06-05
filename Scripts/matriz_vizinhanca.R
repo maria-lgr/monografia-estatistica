@@ -1,4 +1,6 @@
-# LOCALIZAÇÃO ESPACIAL DOS MUNICÍPIOS 
+########################################################=
+####         GERAÇÃO MATRIZES DE VIZINHANÇA         ####
+########################################################=
 
 
 # Pacotes ----
@@ -6,11 +8,8 @@ library(tidyverse)
 
 
 # Leitura dos dados ----
-
 lat_long <- read.csv("./Dados/municipios.csv")
 glimpse(lat_long)
-
-
 
 
 # 2020 ###############################################

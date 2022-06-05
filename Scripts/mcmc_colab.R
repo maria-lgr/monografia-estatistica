@@ -89,7 +89,7 @@ mcmc_hist(output$draws("beta")); mcmc_hist(output$draws("zeta")); mcmc_hist(outp
 # .====
 
 ########################################################=
-#### BLOCÃO ####
+####                     BLOCÃO                     ####
 ########################################################=
 
 # REPRODUZINDO AS SIMULAÇÕES RODADAS NO COLAB COM AS MESMAS SEMENTES

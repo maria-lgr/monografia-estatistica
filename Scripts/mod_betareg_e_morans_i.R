@@ -1,5 +1,6 @@
-# MODELAGEM COM BETAREG E I DE MORAN ################
-
+########################################################=
+####    MODELAGEM COM BETAREG E TESTE I DE MORAN    ####
+########################################################=
 
 library(tidyverse)
 library(betareg)

@@ -1,4 +1,6 @@
-# gráfico explicação priori
+########################################################=
+####     GRÁFICO ILUSTRATIVO PRIORI/POSTERIORI      ####
+########################################################=
 
 library(tidyverse)
 

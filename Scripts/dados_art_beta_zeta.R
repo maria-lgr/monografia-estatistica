@@ -1,4 +1,7 @@
-# SCRIPT GERAÇÃO DE DADOS ARTIFICIAIS - BETA ZETA (SEM EFEITO NO ZETA)
+########################################################=
+####    GERAÇÃO DE DADOS ARTIFICIAIS - BETA ZETA    ####
+####               (SEM EFEITO NO ZETA)             ####
+########################################################=
 
 # tau = 2 
 # beta = c(-0.75, 0.5, -1.5)  

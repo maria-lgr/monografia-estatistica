@@ -1,4 +1,6 @@
-# PREPARANDO TABELAS DOS RESULTADOS DAS SIMULAÇÕES
+############################################################=
+####  PREPARANDO TABELAS DOS RESULTADOS DAS SIMULAÇÕES  ####
+############################################################=
 
 library(tidyverse)
 library(readxl)
