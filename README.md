@@ -1,7 +1,6 @@
-# monografia-estatistica
-Repositório para disponibilizar os principais arquivos relacionados ao meu projeto de Monografia para a Graduação em Estatística pela UFMG.
+*Repositório para disponibilizar os principais arquivos relacionados ao meu projeto de Monografia para a Graduação em Estatística pela UFMG.*
 
-### Modelagem Linear Generalizada com Efeito Espacial: um estudo com dados educacionais do estado de Minas Gerais
+## Modelagem Linear Generalizada com Efeito Espacial: um estudo com dados educacionais do estado de Minas Gerais
 
 - Maria Luisa Gomes dos Reis
 - Orientador: Professor Vinícius Diniz Mayrink
