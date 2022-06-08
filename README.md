@@ -2,10 +2,10 @@
 
 ## Modelagem Linear Generalizada com Efeito Espacial: um estudo com dados educacionais do estado de Minas Gerais
 
-🎓 Graduação em Estatística
-🏫 Universidade Federal de Minas Gerais
-💡 Orientador: Professor Vinícius Diniz Mayrink
-📍 Belo Horizonte, 2022
+- 🎓 Graduação em Estatística
+- 🏫 Universidade Federal de Minas Gerais
+- 💡 Orientador: Professor Vinícius Diniz Mayrink
+- 📍 Belo Horizonte, 2022
 
 ## Resumo
 
